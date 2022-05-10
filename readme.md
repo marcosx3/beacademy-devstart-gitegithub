@@ -80,5 +80,5 @@ As configurações do GIT são armazenadas no arquivo:  ```.gitconfig``` localiz
 
 - [@marcosx3](https://github.com/marcosx3)
 
-## Obrigado Pela ler até aqui!
+## Obrigado Por ler até aqui!
 ![Alt Text](https://github.com/marcosx3/beacademy-devstart-gitegithub/blob/main/ok.gif)
